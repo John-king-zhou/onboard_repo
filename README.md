@@ -1,1 +1,1 @@
-This is the repo for github introduction onboarding training
+addding more text to README
